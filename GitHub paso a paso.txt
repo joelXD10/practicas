@@ -1,0 +1,28 @@
+Pasos para configurar GitHub con nuestros datos
+
+Comando para configurar el nombre de usuario en GitHub
+git config user.name "nombre de usuario"
+
+Comando para configurar el correo con el que esta asociado en GitHub
+git config user.email "Correo electronico"
+
+Comando para poner el tokens que se genera en GitHub
+git config user.password
+
+Comando para indicar nuestro repositorio
+git remote add origin "URL del repositorio de GitHub"
+
+Comando para agregar los todos archivos 
+git add . 
+
+Comando para agregar un archivo en especifico
+git add "nombre del archivo"
+
+Comando para guardar los archivos o cambios
+git commit -m "Mensaje que queramos poner"
+
+git push -u origin master
+
+Comando para saber el estado de los archivos
+git status
+
