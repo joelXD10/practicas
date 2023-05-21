@@ -21,8 +21,18 @@ git add "nombre del archivo"
 Comando para guardar los archivos o cambios
 git commit -m "Mensaje que queramos poner"
 
+Comando para enviar los cambios al repositorio de GitHub
 git push -u origin master
 
 Comando para saber el estado de los archivos
 git status
+
+Ubicarse en un carpeta en donde se valla a clonar el repositorio
+Comando para cloanr un repositorio
+git clone "URL del repositorio a clonar"
+
+Comando para colocar el repositorio clonado en la carpeta actual
+Git git: (master)
+
+
 
